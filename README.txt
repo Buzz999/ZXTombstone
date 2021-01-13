@@ -1,5 +1,3 @@
-README
-
 ZXTombstone - 2019/10/20 - Morroco
 
 Once again, this is a new remake of my favorite game : Tombstone City.
@@ -8,8 +6,8 @@ and several graphics libraries (Allegro, SDL, PA LIB, SFML), I decided to make s
 Mixing TI99/4A and ZX Spectrum worlds.
 This is now done.
 
-So, this Tombstone City game implementation runs on Sicair ZX Spectrum.
-I ran it on two emulators (My own version and EightyOne) but not on a real target yet.
+So, this Tombstone City game implementation is for the Sinclair ZX Spectrum 48K.
+It ran successfully on emulators (My own version and EightyOne) and of course on a real host.
 
 Features
 --------
